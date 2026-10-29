@@ -19,10 +19,10 @@ Source: [F1TENTH@UCI](https://f1tenth.club), including the JavaScript-rendered s
 
 ## Facts supplied by the user
 
-- Fifth-place international finish at IEEE.
+- Fourth-place international finish at IEEE.
 - Fiscal sponsorship through HCB.
 
-The website did not provide a readable result record or the team's HCB donation link. The result is written as a **past fifth-place competition finish**, not a current worldwide ranking. No year, conference name, number of entrants, or competition division has been invented. Add the exact event, year, and result link when available.
+The website did not provide a readable result record or the team's HCB donation link. The result is written as a **past fourth-place competition finish**, not a current worldwide ranking. No year, conference name, number of entrants, or competition division has been invented. Add the exact event, year, and result link when available.
 
 The user's statement that in-kind donations are a tax write-off has been qualified: eligible donated goods may be deductible, while the value of donated time and services generally is not. Do not promise that every contribution, credit, license, discount, loan of equipment, or service is deductible.
 

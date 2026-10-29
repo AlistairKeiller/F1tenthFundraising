@@ -6,11 +6,11 @@ Drafts for customization. Replace bracketed fields, personalize the opening, and
 
 **Subject:** Sponsor UC Irvine's autonomous racing team — F1TENTH@UCI
 
-**Alternative subject:** Help F1TENTH@UCI build on a fifth-place international finish
+**Alternative subject:** Help F1TENTH@UCI build on a fourth-place international finish
 
 Hi [First Name],
 
-I'm [Your Name], [Role] with F1TENTH@UCI, the autonomous racing team at the University of California, Irvine. We design, build, and race 1:10-scale self-driving cars, and our team placed fifth internationally at an IEEE F1TENTH competition.
+I'm [Your Name], [Role] with F1TENTH@UCI, the autonomous racing team at the University of California, Irvine. We design, build, and race 1:10-scale self-driving cars, and our team placed fourth internationally at an IEEE F1TENTH competition.
 
 Given [Company]'s work in [specific relevant area], I thought our team could be a strong fit for your sponsorship program. Our students work across reinforcement learning, robotics software, electronics, and mechanical design to take autonomous driving from simulation to the track.
 
@@ -33,7 +33,7 @@ https://f1tenth.club
 
 Hi [First Name],
 
-I'm [Your Name], [Role] with F1TENTH@UCI, UC Irvine's autonomous racing team. We build and compete with 1:10-scale self-driving cars and placed fifth internationally at an IEEE F1TENTH competition.
+I'm [Your Name], [Role] with F1TENTH@UCI, UC Irvine's autonomous racing team. We build and compete with 1:10-scale self-driving cars and placed fourth internationally at an IEEE F1TENTH competition.
 
 I'm reaching out because [specific Company product or capability] could help us [specific engineering goal]. Would [Company] consider donating [item, model, and quantity] for our racing and student development work?
 
@@ -56,7 +56,7 @@ https://f1tenth.club
 
 Hi [First Name],
 
-I'm following up on my note about supporting F1TENTH@UCI. We're seeking financial and equipment sponsors to help our UC Irvine students develop autonomous race cars and build on our fifth-place international finish at an IEEE F1TENTH competition.
+I'm following up on my note about supporting F1TENTH@UCI. We're seeking financial and equipment sponsors to help our UC Irvine students develop autonomous race cars and build on our fourth-place international finish at an IEEE F1TENTH competition.
 
 I think [Company]'s work in [specific area] connects well with our team's work in [relevant project]. Would you be open to a brief call next week? If someone else handles sponsorships or community giving, I'd appreciate a referral.
 

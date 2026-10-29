@@ -47,7 +47,7 @@
 #image("../assets/car-hero-print.jpg", width: 100%, height: 270pt, fit: "cover", alt: "F1TENTH@UCI autonomous race car with onboard sensors and computing")
 #v(10pt)
 #grid(columns: (1fr, 1fr, 1fr), gutter: 0pt,
-  block(fill: yellow, inset: 12pt, height: 66pt)[#text(font: "Avenir Next", size: 24pt, weight: "bold")[5TH]\ #text(size: 8.4pt)[International finish at an\ IEEE F1TENTH competition]],
+  block(fill: yellow, inset: 12pt, height: 66pt)[#text(font: "Avenir Next", size: 24pt, weight: "bold")[4TH]\ #text(size: 8.4pt)[International finish at an\ IEEE F1TENTH competition]],
   block(fill: pale, inset: 12pt, height: 66pt)[#text(font: "Avenir Next", size: 24pt, weight: "bold")[1:10]\ #text(size: 8.4pt)[Scale of our autonomous\ racing vehicles]],
   block(fill: ink, inset: 12pt, height: 66pt)[#text(font: "Avenir Next", size: 24pt, weight: "bold", fill: blue)[HCB]\ #text(size: 8.4pt, fill: white)[Fiscal sponsorship through\ The Hack Foundation]],
 )

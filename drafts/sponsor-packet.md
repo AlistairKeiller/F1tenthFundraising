@@ -11,7 +11,7 @@ Help UC Irvine students turn autonomous racing research into real performance on
 
 ![F1TENTH@UCI autonomous race car](../assets/car-hero-print.jpg){width=5.8in}
 
-**5th internationally** at an IEEE F1TENTH competition  
+**4th internationally** at an IEEE F1TENTH competition  
 **1:10-scale vehicles** built for autonomous racing  
 **HCB fiscal sponsorship** through The Hack Foundation
 
@@ -19,7 +19,7 @@ F1TENTH@UCI is the autonomous racing team at the University of California, Irvin
 
 Our team competes in F1TENTH, now known as RoboRacer. Our research focuses on reinforcement learning: training driving policies in simulation and bringing them onto real vehicles.
 
-We are seeking financial and in-kind sponsors to help us build on our fifth-place international finish, strengthen our racing platform, and create more opportunities for students to work with autonomous systems.
+We are seeking financial and in-kind sponsors to help us build on our fourth-place international finish, strengthen our racing platform, and create more opportunities for students to work with autonomous systems.
 
 **Let's build the next lap together.**  
 [f1tenth@uci.edu](mailto:f1tenth@uci.edu) | [f1tenth.club](https://f1tenth.club)
